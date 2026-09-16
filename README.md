@@ -1,3 +1,8 @@
+
+
+## Parcours français
+
+Un parcours pédagogique en français présente Nethermind : architecture du client d’exécution, synchronisation, exécution EVM, état, JSON-RPC, plugins, observation et sécurité. Voir [docs/fr/](docs/fr/).
 # Nethermind Ethereum client
 
 [![Tests](https://github.com/nethermindeth/nethermind/actions/workflows/nethermind-tests.yml/badge.svg)](https://github.com/nethermindeth/nethermind/actions/workflows/nethermind-tests.yml)
